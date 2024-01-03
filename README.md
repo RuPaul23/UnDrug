@@ -1,4 +1,4 @@
-# UnDrug: NPC Quest Mission Game
+# UnDrug: Drug-Free Odyssey
 
 UnDrug is an immersive NPC Quest Mission Game developed using Unreal Engine 5, Blender, Sketchfab, Mixamo, and Bridge. Dive into a virtual world where you play a crucial role in educating NPCs about the perils of drugs while embarking on exciting missions to eradicate drug-related activities.
 
