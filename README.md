@@ -6,6 +6,19 @@ UnDrug is an immersive NPC Quest Mission Game developed using Unreal Engine 5, B
 
 UnDrug is not just a game; it's an interactive experience designed to educate players about the dangers of drug abuse. The game combines captivating storytelling, stunning visuals, and educational elements to deliver a unique gaming experience.
 
+## Screenshots and Gameplay
+
+![Screenshot 2024-01-03 222035](https://github.com/RuPaul23/UnDrug/assets/105512611/231a3b6a-9a33-4f8c-a0a1-98f0a89dc4ee)
+![UnDrug4](https://github.com/RuPaul23/UnDrug/assets/105512611/60f52283-90a7-48d3-b0be-7906916864aa)
+![Screenshot 2024-01-03 222010](https://github.com/RuPaul23/UnDrug/assets/105512611/97f1659c-2128-4dab-88a1-664ed8880308)
+
+![UnDrugSS1](https://github.com/RuPaul23/UnDrug/assets/105512611/9cc291e7-cff7-4c32-869e-5eb1312085cc)
+![UnDrug3](https://github.com/RuPaul23/UnDrug/assets/105512611/08ce3c39-a8a8-4cfb-9d52-c48b6cdb299d)
+
+## Gameplay
+https://github.com/RuPaul23/UnDrug/assets/105512611/8c738a1f-042f-4bcc-a885-745256b2f8a3
+
+
 ## Key Features
 
 - **Immersive Gameplay:** Explore a meticulously crafted world using Unreal Engine 5, featuring realistic graphics and environments that enhance the overall gaming experience.
